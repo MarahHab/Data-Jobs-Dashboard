@@ -33,9 +33,13 @@ This project was a journey through key Power BI features. Here's a look at what 
 
 *This report is split into two distinct pages to provide both a high-level summary and a detailed analysis.*
 
-<h5>Page 1: High-Level Market View</h5>
+<h4>Page 1: High-Level Market View</h4>
 
-<h5>Job Title Drill Throw</h5>
+<video src="https://github.com/MarahHab/Data-Jobs-Dashboard/blob/main/Market%20View%20Vid.mp4"
+       width="100%"
+       controls>
+</video>
+<h4>Page 2: Job Title Drill Throw</h4>
 
 
 <img width="1734" height="977" alt="image" src="https://github.com/user-attachments/assets/5bd5d04b-0055-4b1b-8288-49bfcbe27217" />
