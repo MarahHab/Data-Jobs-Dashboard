@@ -35,7 +35,8 @@ This project was a journey through key Power BI features. Here's a look at what 
 
 <h4>Page 1: High-Level Market View</h4>
 
-https://github.com/MarahHab/Data-Jobs-Dashboard/blob/main/Market%20View%20Vid.mp4
+[Power BI Dashboard Video]([YOUR-VIDEO-LINK](https://github.com/MarahHab/Data-Jobs-Dashboard/blob/main/Market%20View%20Vid.mp4
+)
 
 <h4>Page 2: Job Title Drill Throw</h4>
 
