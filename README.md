@@ -35,10 +35,10 @@ This project was a journey through key Power BI features. Here's a look at what 
 
 <h4>Page 1: High-Level Market View</h4>
 
-<video src="https://github.com/MarahHab/Data-Jobs-Dashboard/blob/main/Market%20View%20Vid.mp4"
-       width="100%"
-       controls>
+<video width="100%" controls>
+  <source src="https://raw.githubusercontent.com/MarahHab/Data-Jobs-Dashboard/main/Market%20View%20Vid.mp4" type="video/mp4">
 </video>
+
 <h4>Page 2: Job Title Drill Throw</h4>
 
 
